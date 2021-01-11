@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ngCompleteGuide2020"
+  "defaultProject": "ngCompleteGuide2020",
+  "cli": {
+    "analytics": false
+  }
 }
